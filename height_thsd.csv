@@ -1,4 +1,0 @@
-group1,group2,meandiff,p-adj,lower,upper,reject
-EG,NCG,-21.6667,0.001,-28.1169,-15.2164,True
-EG,PCG,-6.5,0.0479,-12.9503,-0.0497,True
-NCG,PCG,15.1667,0.001,8.7164,21.6169,True
